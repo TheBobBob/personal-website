@@ -23,7 +23,7 @@ function Home() {
               Currently, I am an undergraduate researcher at the Noble Lab in the Department of Genome Sciences at the University of Washington working on 
               training Casanovo, a de novo transformer peptide sequencer, on timsTOF data that is increasingly used in immunopeptidomics. I am also working 
               on integrating DIA functionality into Casanovo. I am also a teaching assistant in the Allen School for CSE390Z (an accompanying seminar for the
-              introductory discrete mathematics course for computer science majors).
+              introductory discrete mathematics course for computer science majors). I will be presenting at ASMS 2026!
           </p>
         </div>
       </div>
