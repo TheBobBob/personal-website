@@ -7,7 +7,19 @@ import './index.css';
 function Experience() {
   const experiences = [
     {
-      year: 'May 2024 - Current',
+      year: 'June 2025 - Current', 
+      title: 'Undergraduate Researcher', 
+      org: 'UW Department of Genome Sciences', 
+      projects: [
+        'Training Casanovo (de novo peptide sequencer with timsTOF data)', 
+        'Integrating DIA functionality into Casanovo',
+      ],
+      skills: [
+        'Research documentation + Deep learning', 'Mass spectrometry', 
+      ]
+    },
+    {
+      year: 'May 2024 - January 2026',
       title: 'Assistant Researcher',
       org: 'UW Department of Bioengineering',
       projects: [
@@ -19,6 +31,9 @@ function Experience() {
       skills: [ 
         'PyTorch + Tensorflow + Keras + Scikit-Learn', 'JavaScript', 'Streamlit'
       ],
+      publications: [
+        'https://arxiv.org/abs/2601.22684,
+      ]
     },
     {
       year: 'September 2024 - August 2025',
