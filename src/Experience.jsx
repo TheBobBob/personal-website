@@ -73,9 +73,9 @@ function Experience() {
 
       <div className="relative border-l-4 border-pink-300 ml-4">
         {experiences.map((exp, index) => (
-          <div key={index} className="mb-10 ml-6 relative">
+          <div key={index} className="mb-10 ml-8 relative">
             {/* Dot on the timeline */}
-            <div className="absolute -left-3.5 w-7 h-7 bg-pink-400 rounded-full border-4 border-white z-10" />
+            <div className="absolute -left-4 top-1 w-6 h-6 bg-pink-400 rounded-full border-4 border-white z-10" />
 
             <p className="text-sm text-gray-500">{exp.year}</p>
             <h2 className="text-xl font-semibold">{exp.title}</h2>
