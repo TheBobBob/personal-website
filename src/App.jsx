@@ -33,28 +33,6 @@ function App() {
           {/* Placeholder route for Projects */}
         </Routes>
       </main>
-
-      {/* Footer */}
-      <footer className="bg-pink-200 p-4 text-center mt-10">
-        <p className="text-black text-sm">
-          © 2025 Bhavyahshree Navaneetha Krishnan
-        </p>
-        <a
-          href="mailto:bhavyak7@cs.washington.edu"
-          className="text-sm underline"
-        >
-          Contact
-        </a>{' '}
-        |{' '}
-        <a href="https://google.com" className="text-sm underline">
-          Blog
-        </a>{' '}
-        | <a href="#" className="text-sm underline">Resume
-        </a>{' '}
-        |  <a href="https://github.com/TheBobBob" className="text-sm underline"> Github 
-        </a>
-        
-      </footer>
     </div>
   );
 }
