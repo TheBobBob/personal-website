@@ -18,17 +18,12 @@ function Home() {
         <div>
           <p className="text-lg leading-relaxed">
             Hi! My name is Bhavyahshree Navaneetha Krishnan, but I go by Bhavya. 
-              I'm a rising sophomore majoring in computer science and mathematics with a minor in linguistics at the University of Washington. 
+              I'm a rising junior majoring in computer science and biochemistry at the University of Washington. 
               Previously, I was a software engineering research assistant at Harvard Medical School and a member of kinetic modeling subteam at UW iGEM.
-              Currently, I am an assistant researcher at the UW Department of Bioengineering, working on creating RAG systems for analyzing Biomodels 
-              and creating machine learning models for analyzing time series data! I am also working towards my 
-              AWS Certified Cloud Practitioner certification.
-              In my free time, I enjoy baking, reading, and writing (the link to my blog is below)!
-              <br></br>
-              <br></br> 
-              I am looking for internships/research positions in bioinformatics and natural language processing, as well as opportunities to gain skills in SQL, 
-              JavaScript, and applied machine learning. Feel free to contact me about anything!
-            {/* Add your full intro text here */}
+              Currently, I am an undergraduate researcher at the Noble Lab in the Department of Genome Sciences at the University of Washington working on 
+              training Casanovo, a de novo transformer peptide sequencer, on timsTOF data that is increasingly used in immunopeptidomics. I am also working 
+              on integrating DIA functionality into Casanovo. I am also a teaching assistant in the Allen School for CSE390Z (an accompanying seminar for the
+              introductory discrete mathematics course for computer science majors).
           </p>
         </div>
       </div>
